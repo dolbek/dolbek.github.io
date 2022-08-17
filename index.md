@@ -8,3 +8,5 @@ embedded systems, machine learning, or software development in any medium to low
 
 For now, I intend to use this GitHub account to store any personal projects or school projects of note, with the intent of contributing to some interesting open
 source projects as time allows.
+
+This site is still under construction, and past projects have not yet been linked to.
